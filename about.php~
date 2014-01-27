@@ -1,0 +1,21 @@
+<?php $title='Snake-spel'; include(__DIR__ . '/incl/header.php'); ?>
+ 
+<div id="info">
+<h1>Snake spel</h1>
+<div id='infop'>
+<p>Snake spelet är ett student projekt, är gjort av Rattana Prasith i kurspaketet "Databaser, HTML, CSS, JavaScript och PHP" vid Blekinge tekniska högskola.</p> 
+<p>Spelet går ut på att spelaren ska styra "ormen" för att äta upp maten som är utlagd (röda punkten). Ormen styrs med pilknapparna på tangentbordet och spelaren får en poäng per uppäten matbit. Spelet slutar då ormen kolliderar med väggen.</</p>
+<br><p><a href="http://www.student.bth.se/~rapr13/javascript/projekt/snake/index.php">Klicka här för att komma till spelet</a></p>
+<br>
+
+<p><b>Bakgrund</b>
+<br>Snake är ett datorspel som släppt 1978. Sedan den tiden har spelet blivit en av de mest populära spelen i historien och har även släppts ett flera gånger som mobilspel. </p>
+<p>I det klassiska spelet spelaren styr en lång, tunn varelse, vars uppgift är att samla mat/plocka små punkter. Ormen växer varje gång den går över en punkten och spelaren får en poäng per uppäten matbit. Spelet slutar då ormen kolliderar med sig själv. </p>
+
+
+<p>Se källkoden på github: <a href="">Snake</a></p>
+</div>
+</div>
+
+
+<?php $path=__DIR__; include(__DIR__ . '/incl/footer.php'); ?>

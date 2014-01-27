@@ -1,0 +1,8 @@
+<footer id='footer'>
+<p>2014 © Rattana Prasith </p>
+</footer>
+
+<script src="js/jquery.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html> 
