@@ -27,6 +27,6 @@ För att själv ska kunna konfigurera spelet så krävs det att du åtminstone h
 * img-mappen innehåller bidler.
 * incl-mappen innehåller både header.php och footer.php. 
 * index-php visar själva innehållet på webbsidan och här kan du ändra ljudet för spelet.
-* js-mappen innehåller less.min.js, modernizr.js och main.js. main.js filen innehåller själva testprogrammet för spelet och här kan du ändra spelkoden och dess funktioner.
+* js-mappen less.min.js, modernizr.js och main.js. main.js filen innehåller själva testprogrammet för spelet och här kan du ändra spelkoden och dess funktioner.
 * base.less är webbsidans grundtema.
 * style.less innehållet stylesheet-kod för själva spelet.
