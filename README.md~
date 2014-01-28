@@ -9,6 +9,7 @@ Spelbeskrivning
 Klassisk snake 2 spel går ut på att spelaren ska styra "ormen" för att äta upp maten som är utlagd dvs. blåa punkten. 
 Ormen styrs med hjälp av pilknapparna på tangentbordet och spelaren får en poäng per uppäten matbit. Spelet slutar då ormen kolliderar mot väggen.
 
+Klicka på länken om du vill läsa om produktanalysen: http://www.student.bth.se/~rapr13/javascript/projekt/snake/about.php
 
 Installation
 ---------------
@@ -27,6 +28,6 @@ För att själv ska kunna konfigurera spelet så krävs det att du åtminstone h
 * img-mappen innehåller bidler.
 * incl-mappen innehåller både header.php och footer.php. 
 * index-php visar själva innehållet på webbsidan och här kan du ändra ljudet för spelet.
-* js-mappen less.min.js, modernizr.js och main.js. main.js filen innehåller själva testprogrammet för spelet och här kan du ändra spelkoden och dess funktioner.
+* js-mappen innehåller less.min.js, modernizr.js och main.js. main.js filen innehåller själva testprogrammet för spelet och här kan du ändra spelkoden och dess funktioner.
 * base.less är webbsidans grundtema.
 * style.less innehållet stylesheet-kod för själva spelet.

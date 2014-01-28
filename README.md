@@ -9,12 +9,13 @@ Spelbeskrivning
 Klassisk snake 2 spel går ut på att spelaren ska styra "ormen" för att äta upp maten som är utlagd dvs. blåa punkten. 
 Ormen styrs med hjälp av pilknapparna på tangentbordet och spelaren får en poäng per uppäten matbit. Spelet slutar då ormen kolliderar mot väggen.
 
+Klicka på länken om du vill läsa om produktanalysen: http://www.student.bth.se/~rapr13/javascript/projekt/snake/about.php
 
 Installation
 ---------------
 Du kan installera spelet på två allternativ:
 
-1. Klona spelet till din dator med foljande kommando `git clone git://github.com/rattanaprasith/snake.git`. Du behöver även Git Bash eller Git GUI på din dator för att själva kloningen skall gå att genomföra. De kan laddas ner på följande länk: http://git-scm.com/downloads
+1. Klona spelet till din dator med detta repo `https://github.com/rattanaprasith/snake.git`
 2. Ladda ner spelet som zip-fil. Lägg filerna i den valda mappen och anslut dem sedan till en server. Öppnar index.php filen i din webläsare för att kontrollera att det fungerar som det skall.
 så här kan spelet se ut i sin fungerande form: http://www.student.bth.se/~rapr13/javascript/projekt/snake/index.php 
 
