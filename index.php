@@ -9,14 +9,14 @@
 </div>
 
 <div id="reMenu">
-	<h1 id="snake2">Ormspel 1</h1>
+	<h1 id="snake2">Klassisk snake 2 spel</h1>
 	<p id="info2">Game Over</p>
 	<a href="javascript: void(0)" id="restart" onclick="reset()" >Restart</a> 	
 	
 </div>
 
 <div id="menu">
-	<h1 id="snake">Ormspel 1</h1>      	
+	<h1 id="snake">Klassisk snake 2 spel</h1>      	
 	<a href="javascript: void(0)" id="start" onclick="init()" >Start</a>
 	
 	

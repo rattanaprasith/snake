@@ -1,5 +1,5 @@
 <footer id='footer'>
-<p>2014 © Rattana Prasith | <a href="https://github.com/rattanaprasith/snake/tree/master">Källkod på Github</a></p>
+<p>2014 © Rattana Prasith | <a href="https://github.com/rattanaprasith/snake/master">Källkod på Github</a></p>
 
 
 </footer>

@@ -66,7 +66,7 @@ function init() {
 	
 	
 	function paintCanvas() {
-		ctx.fillStyle = "#fec6cd";
+		ctx.fillStyle = "#fff";
 		ctx.fillRect(0, 0, w, h);
 	}
 	
@@ -96,7 +96,7 @@ function init() {
 		for(var i = 0; i < snake.length; i++) {
 			var s = snake[i];
 			
-			ctx.fillStyle = "#bf4aa7";
+			ctx.fillStyle = "#4b4312";
 			ctx.fillRect(s.x*size, s.y*size, size, size);
 		}
 	}

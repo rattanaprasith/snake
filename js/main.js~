@@ -66,7 +66,7 @@ function init() {
 	
 	
 	function paintCanvas() {
-		ctx.fillStyle = "#6ED63A";
+		ctx.fillStyle = "#fec6cd";
 		ctx.fillRect(0, 0, w, h);
 	}
 	
@@ -75,7 +75,7 @@ function init() {
 		this.y = Math.round(Math.random() * (h - size) / size);
 		
 		this.draw = function() {
-			ctx.fillStyle = "red";
+			ctx.fillStyle = "blue";
 			ctx.fillRect(this.x*size, this.y*size, size, size);
 		}
 	}
@@ -96,7 +96,7 @@ function init() {
 		for(var i = 0; i < snake.length; i++) {
 			var s = snake[i];
 			
-			ctx.fillStyle = "#f4d109";
+			ctx.fillStyle = "#bf4aa7";
 			ctx.fillRect(s.x*size, s.y*size, size, size);
 		}
 	}
@@ -189,7 +189,7 @@ function init() {
 		reMenu.style.zIndex = "-1"
 		dir = "right";
 		over = 0;
-		speed = 30;
+		speed = 20;
 		if(typeof game_loop != "undefined")  clearInterval(game_loop); 
 		game_loop = setInterval(draw, 1000/speed);
 		
