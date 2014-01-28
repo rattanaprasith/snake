@@ -1,12 +1,12 @@
-Ormspel 1
+Klassisk snake 2
 =========================
 
-Ormspel 1 är ett lite canvas spel som är skapat av Rattana Prasith.
+Klassisk snake 2 är ett lite canvas spel som är skapat av Rattana Prasith.
 
 
 Spelbeskrivning
 ---------------
-Ormspel 1 går ut på att spelaren ska styra "ormen" för att äta upp maten som är utlagd dvs. blåa punkten. 
+Klassisk snake 2 spel går ut på att spelaren ska styra "ormen" för att äta upp maten som är utlagd dvs. blåa punkten. 
 Ormen styrs med hjälp av pilknapparna på tangentbordet och spelaren får en poäng per uppäten matbit. Spelet slutar då ormen kolliderar mot väggen.
 
 
